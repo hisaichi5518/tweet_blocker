@@ -1,13 +1,13 @@
 # TweetBlocker
 
-# SYNOPSIS
+# Usage
 
     carton install
     carton exec perl bin/twitter_blocker.pl <tweet url>
 
 # DESCRIPTION
 
-TweetBlocker is ...
+TweetBlocker は、特定のツイートのURLにリプライしている人をまとめて、ブロックするコマンドです。
 
 # LICENSE
 
